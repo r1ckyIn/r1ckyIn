@@ -45,13 +45,51 @@
 
 ## 📜 Certifications
 
-| Certification | Issuer |
-|--------------|--------|
-| AWS Solutions Architect - Associate | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| AWS Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| IBM Z Xplore - Concepts | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) |
-| CS50's Introduction to Python | ![Harvard](https://img.shields.io/badge/Harvard-A51C30?style=flat-square) |
-| Introduction to MCP | ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Solutions Architect - Associate**
+
+</td>
+<td align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Cloud Practitioner**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**Z Xplore - Concepts**
+
+</td>
+<td align="center">
+
+![edX](https://img.shields.io/badge/edX-02262B?style=flat-square&logo=edx&logoColor=white)
+
+**CS50's Introduction to Python**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+
+**Introduction to MCP**
+
+</td>
+</tr>
+</table>
+</div>
 
 ## 🤝 Let's Connect!
 
