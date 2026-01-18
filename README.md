@@ -47,11 +47,11 @@
 
 | Certification | Issuer |
 |--------------|--------|
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) AWS Solutions Architect - Associate | Amazon Web Services |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) AWS Cloud Practitioner | Amazon Web Services |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) IBM Z Xplore - Concepts | IBM |
-| ![Harvard](https://img.shields.io/badge/Harvard-A51C30?style=flat-square&logo=harvard&logoColor=white) CS50's Introduction to Python | Harvard University |
-| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) Introduction to MCP | Anthropic |
+| AWS Solutions Architect - Associate | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| AWS Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| IBM Z Xplore - Concepts | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) |
+| CS50's Introduction to Python | ![Harvard](https://img.shields.io/badge/Harvard-A51C30?style=flat-square) |
+| Introduction to MCP | ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
 
 ## 🤝 Let's Connect!
 
