@@ -45,6 +45,8 @@
 
 ## 📜 Certifications
 
+<div align="center">
+
 | Certification | Issuer |
 |--------------|--------|
 | AWS Solutions Architect - Associate | Amazon Web Services |
@@ -52,6 +54,8 @@
 | IBM Z Xplore - Concepts | IBM |
 | CS50's Introduction to Python | Harvard University |
 | Introduction to MCP | Anthropic |
+
+</div>
 
 ## 🤝 Let's Connect!
 
