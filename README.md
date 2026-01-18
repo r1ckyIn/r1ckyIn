@@ -1,7 +1,12 @@
-# Hi there, I'm Ricky 👋
+<div align="center">
+
+# 👋 Hi there, I'm Ricky
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickyyyyy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rickyqin919@gmail.com)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5fe741d60000000001003145)
+
+</div>
 
 ## 🎓 About Me
 
@@ -12,6 +17,8 @@
 - 🌏 Bilingual: English & Chinese
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -34,63 +41,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+</div>
+
 ## 📜 Certifications
 
 | Certification | Issuer |
 |--------------|--------|
-| AWS Solutions Architect - Associate | Amazon Web Services |
-| AWS Cloud Practitioner | Amazon Web Services |
-| IBM Z Xplore - Concepts | IBM |
-| CS50's Introduction to Python | Harvard University |
-| Introduction to MCP | Anthropic |
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧙‍♂️ Hogwarts Archive</h3>
-      <p>A magical spellbook management system demonstrating OOP principles in Java</p>
-      <a href="https://github.com/r1ckyIn/hogwarts-archive">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>☁️ AWS Cost Calculator</h3>
-      <p>Python OOP project for calculating AWS resource costs with inheritance & polymorphism</p>
-      <a href="https://github.com/r1ckyIn/aws_cost_calculator">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📚 USYD CS Cheatsheets</h3>
-      <p>Open-source exam cheatsheets for USYD CS courses. Created by students, for students.</p>
-      <a href="https://github.com/r1ckyIn/usyd-cs-cheatsheets">
-        <img src="https://img.shields.io/badge/Cheatsheet-green?style=flat-square"/>
-        <img src="https://img.shields.io/badge/USYD-blue?style=flat-square"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🔗 Canvas + Ed MCP Server</h3>
-      <p>MCP server integrating Canvas LMS and Ed Discussion APIs for Claude</p>
-      <a href="https://github.com/r1ckyIn/canvas-ed-mcp">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MCP-FF6B35?style=flat-square"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1ckyIn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckyIn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) AWS Solutions Architect - Associate | Amazon Web Services |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) AWS Cloud Practitioner | Amazon Web Services |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) IBM Z Xplore - Concepts | IBM |
+| ![Harvard](https://img.shields.io/badge/Harvard-A51C30?style=flat-square&logo=harvard&logoColor=white) CS50's Introduction to Python | Harvard University |
+| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) Introduction to MCP | Anthropic |
 
 ## 🤝 Let's Connect!
 
