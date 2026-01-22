@@ -1,0 +1,23 @@
+# Claude Code configuration
+CLAUDE.md
+
+# Local Chinese documentation
+*_CN.md
+*.cn.md
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
