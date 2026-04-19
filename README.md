@@ -2,7 +2,7 @@
 
 # Hi, I'm Ricky Yuan
 
-**CS + Mathematics @ University of Sydney | Software Engineer | Bilingual (EN/CN)**
+**CS + Mathematics @ University of Sydney | Cloud/DevOps Engineer | Bilingual (EN/CN)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rickyyyyy-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rickyyyyy)
 [![Email](https://img.shields.io/badge/Email-rickyqin919-EA4335?style=flat-square&logo=gmail)](mailto:rickyqin919@gmail.com)
@@ -21,10 +21,21 @@
 
 ## What I'm Working On
 
-- [UniBoard](https://github.com/r1ckyIn/UniBoard) -- Unified academic dashboard with AI insights (FastAPI + Next.js 15 + Claude API + 17-tool MCP server)
-- Building developer tools with Claude Code and the GSD workflow
+- **Cloud/DevOps certification roadmap** -- AWS Solutions Architect Associate (earned) → Terraform Associate (May 2026) → KCNA/CKA (pre-graduation Nov 2027)
+- **FinOps K8s cost-allocation tool** -- unifying AWS Cost Explorer with Kubernetes namespace/pod costs (upgrade of aws_cost_calculator -- Phase 2)
+- **UniBoard** -- AI-integrated academic dashboard, 40+ USyd students, Python + FastAPI + Next.js + 17-tool MCP server
+- **harness-evolve** -- npm meta-tooling for Claude Code sessions, pattern → skill routing library
+- **MLOps exploration** -- learning ML systems design alongside core DevOps stack; preparing for MLOps Engineer intern roles in APAC
 
 ## Tech Stack
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/-Tencent_Cloud-0052CC?style=flat-square&logo=tencentqq&logoColor=white)
 
 **Languages**
 
@@ -44,14 +55,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Tencent Cloud](https://img.shields.io/badge/-Tencent_Cloud-0052CC?style=flat-square&logo=tencentqq&logoColor=white)
 
 **Databases**
 
